@@ -25,11 +25,14 @@ SOFTWARE.
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cc.fovea.cordova.purchase"
-    version="4.0.0">
+    id="dk.kng.cc.fovea.cordova.purchase"
+    version="4.0.1">
 
     <name>Purchase</name>
-	<description>Cordova Purchase plugin for iOS and Android (AppStore and PlayStore)</description>
+	<description>
+        Cordova Purchase plugin for iOS and Android (AppStore and PlayStore)
+        Fork to be used as private pgb plugin (to have all the latest changes)
+    </description>
     <engines>
         <engine name="cordova" version=">=2.4.0" />
     </engines>
